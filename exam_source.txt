@@ -1,0 +1,1337 @@
+<question> Put the verb in brackets into the Present Simple Passive Voice: The rudder (to be operate) from the cockpit.
+<variant>is operated
+<variant>will be operated
+<variant> was operated
+<variant>has been operated
+<variant>had been operated
+<question>Put the verb in brackets into the Present Simple Passive Voice: Control surfaces (to be divide) into primary and secondary control surfaces.
+<variant>are divided
+<variant> is divided
+<variant>will be divided
+<variant>has been divided
+<variant>have been divided
+<question>Put the verb in brackets into the Present Simple Passive Voice: Elevators (to be hinge) to the horizontal stabilizer.
+<variant>are hinged
+<variant>are being hinged
+<variant> have been hinged
+<variant>is hinged
+<variant>had been hinged
+<question> Put the verb in brackets into the Present Simple Passive Voice:The rudder (to be hinge) to the fin.
+<variant>is hinged
+<variant>are being hinged
+<variant>are hinged
+<variant>have been hinged
+<variant>had been hinged
+<question>Choose the right answer: Without enough lubrication, two-stroke engines can___  ___.
+<variant> burn out
+<variant>compress
+<variant>fire
+<variant>mix
+<variant>fix
+<question>Choose the right answer:  The fuel will not ignite if the spark plug fails to_ __.
+<variant>fire
+<variant>burn out
+<variant>mix
+<variant>compress
+<variant>lubricate
+<question>Choose the right answer:
+Fuel and air are pressed together on the _ _ _.
+<variant> compression stroke
+<variant>power stroke
+<variant>intake stroke
+<variant>exhaust stroke
+<variant>cylinder
+<question> Choose the correct word: Did the vehicle break ____?
+<variant>down
+<variant>up
+<variant>out
+<variant>off
+<variant>of
+<question>Choose the correct word: There is something wrong ____ the landing gear
+<variant>with
+<variant>around
+<variant> above
+<variant>without
+<variant>under
+<question>Complete the sentence: On the power stroke, the fuel –and –oil mixture _ _.
+<variant>ignites
+<variant>ignite
+<variant>ignited
+<variant>is ignited 
+<variant>are ignited
+<question>Choose the correct word: There is ____ snow on the apron
+<variant> not
+<variant>no correct answer
+<variant>any
+<variant>anything
+<variant>nothing
+<question>Choose the correct synonym: Construction work
+<variant>building work
+<variant>working day
+<variant>building site
+<variant>home work
+<variant>home task
+<question>Choose the correct answer: The function of the wing is
+<variant> to support the plane in the air
+<variant>to provide energy
+<variant>to provide stability
+<variant>to control flight
+<variant>to provide power
+<question>Choose the right answer: What is the Russian equivalent of “ribs”?
+<variant>Нервюры
+<variant>Стрингеры
+<variant>Лонжероны
+<variant>Обшивка
+<variant>Траверсы
+<question>Choose the right answer: What is the Russian equivalent of “spars”?
+<variant>Лонжероны
+<variant>Стрингеры
+<variant>Нервюры
+<variant>Обшивка
+<variant>Траверсы
+<question>Choose the right answer: What is the Russian equivalent of “drag”?
+<variant> Лобовое сопротивление
+<variant>Изгибающий момент
+<variant>Подъемная сила
+<variant>Крутящий момент
+<variant>Растяжение и сжатие
+<question>Choose the right answer: What must the fuselage be strong enough for?
+<variant>To withstand different loads acting
+<variant>To give more clear space
+<variant>To provide the possibility for perfect streamlining
+<variant>To provide stability
+<variant>To support the plane in the air
+<question>Choose the right answer: What unit/device helps to control the plane?
+<variant>flight control system
+<variant>navigation system 
+<variant>radio communication
+<variant>tail unit
+<variant>engine
+<question>Choose the right answer: Where is the rudder located?
+<variant> on the back edge of an aircraft’s fin
+<variant> on the back edge of an aircraft’s wing
+<variant>on the back edge of an aircraft’s flap
+<variant>on the forward edge of an aircraft’s wing
+<variant>on the forward edge of an aircraft’s fin
+<question>Choose the right answer: What is hinged to the vertical stabilizer?
+<variant>Rudder
+<variant>Fin
+<variant>Elevators
+<variant>Flaps
+<variant>Ailerons
+<question>Choose the right answer: What is the Russian equivalent of “crankshaft”?
+<variant> коленчатый вал
+<variant> растяжение
+<variant> Изгиб 
+<variant>Кручение
+<variant>Нет верного ответа
+<question>Choose the right answer: What is a connecting rod?
+<variant>a piece that transfers motion from a piston to a main engine shaft
+<variant>a reservoir at the bottom of an engine for collecting oil
+<variant>a device that feeds diesel fuel into a combustion chamber
+<variant>a device that opens and closes to control the flow of a fluid
+<variant>no correct answer
+<question>Choose the right answer: What is a fuel injection pump?
+<variant> a device that feeds diesel fuel into a combustion chamber 
+<variant>a reservoir at the bottom of an engine for collecting oil
+<variant> a piece that transfers motion from a piston to a main engine shaft
+<variant>a device that opens and closes to control the flow of a fluid
+<variant>no correct answer
+<question>Choose the right answer: What is a valve?
+<variant> a device that opens and closes to control the flow of a fluid 
+<variant>a reservoir at the bottom of an engine for collecting oil
+<variant>a device that feeds diesel fuel into a combustion chamber
+<variant> a piece that transfers motion from a piston to a main engine shaft
+<variant>no correct answer
+<question>Choose the correct answer: Which surface is called the fin?
+<variant> vertical
+<variant> horizontal
+<variant>front
+<variant>rear
+<variant>fixed
+<question>Choose the correct answer: What stability does the vertical stabilizer provide?
+<variant> directional
+<variant>longitudinal
+<variant>horizontal
+<variant>vertical
+<variant>lateral
+<question>Choose the correct answer: What stability does the horizontal stabilizer provide?
+<variant> longitudinal
+<variant> lateral
+<variant>horizontal
+<variant>vertical
+<variant>directional
+<question>Choose the correct answer: What is the rudder attached to?
+<variant>fin
+<variant>stabilizer
+<variant>wing
+<variant>spoiler
+<variant>aileron
+<question> Employees can buy the tools at ……
+<variant>hardware stores
+<variant>bakery
+<variant>chemist`s
+<variant>workshop
+<variant>clothing shop
+<question> a bag or box used to hold a set of tools
+ <variant> tool kit
+<variant>tool plant
+<variant>tool method
+<variant>machine tool
+<variant>handy tool
+<question> a tool used for tighten or loosen screws
+<variant> screwdriver
+<variant> screw bolt
+<variant> screw propeller
+<variant> screw spiral
+<variant> screw conveyor
+<question> a tool with blades able to grip or cut wires
+ <variant> pliers 
+<variant> bolt 
+<variant> scissors
+<variant> ruler
+<variant> file
+<question> a tool used for finding the length of an object
+<variant> measuring tape
+<variant> measuring bottle
+<variant> measuring spoon
+<variant> measuring system
+<variant> measuring speed
+<question> a tool used to pull the covering off wires
+<variant> wire stripper
+<variant> wire service
+<variant> wired connection
+<variant> wire control
+<variant> steel wire
+<question> a small, battery operated light is good for seeing in dark place.
+ <variant> flashlight
+<variant> lighter
+<variant> light caliber
+<variant> lightship
+<variant> lightless
+<question> Mary used…… to cut open the box.
+ <variant> utility knife
+<variant> bolt 
+<variant> ruler
+<variant> pliers
+<variant> scraper
+<question> John put the ….. around his waist.
+<variant> tool belt
+<variant> tool shed
+<variant> tool plant
+<variant> tool basket
+<variant> handy tool
+<question> a tool with a thin blade that cuts through metal
+<variant> hacksaw
+<variant> bolt
+<variant> propeller
+<variant> plier
+<variant> ruler
+<question> a tool with a metal top used for hitting nail
+ <variant> hammer
+<variant> scissors
+<variant> screwdriver
+<variant> ruler
+<variant> drill
+<question> Sam covered the wires with …...
+<variant> electrical tape
+<variant> electrical activity
+<variant> electrical speed
+<variant> electrical power
+<variant> electrical department
+<question> a tool used to tighten bolts
+<variant> socket wrench
+<variant> angle wrench
+<variant> pipe wrench
+<variant> key wrench
+<variant> pull wrench
+<question> a tool used to tighten screws with a cross head
+<variant> Phillips screwdriver 
+<variant> screwdriver
+<variant> scissors
+<variant> plier
+<variant> ruler
+<question> a tool that makes holes in different materials
+ <variant> drill
+<variant> scissors
+<variant> screwdriver
+<variant> hammer
+<variant> ruler
+<question> The round blade fits on the …...
+<variant> circular saw
+<variant> saw
+<variant> hacksaw
+<variant> jigsaw
+<variant> scissors
+<question> The ….. showed the wire had a lot of voltage.
+<variant> multimeter
+<variant> labeling machine
+<variant> centimeter
+<variant> duct tape
+<variant> ruler
+<question> Kate used a ….. to make sure the picture was straight. 
+<variant> level
+<variant> ruler
+<variant> scissors
+<variant> mixer
+<variant> labeling machine
+<question> The ……. broke through the concrete quickly.
+<variant> hammer drill
+<variant> hammer
+<variant> hacksaw
+<variant> plier
+<variant> ruler
+<question> a piece of material that is solid with flat surfaces on each side 
+ <variant> block
+<variant> metal
+<variant> wood
+<variant> plastic
+<variant> rubber
+<question> the hard substance rocks are made from
+<variant> stone
+<variant> metal
+<variant> wood
+<variant> plastic
+<variant> rubber
+<question> a metal that is made from combining iron and carbon 
+<variant> steel
+<variant> copper
+<variant> gold
+<variant> stone
+<variant> gravel
+<question> a block of clay that is baked until it is hard
+<variant> brick
+<variant> stone
+<variant> steel
+<variant> wood
+<variant> plywood
+<question> to move something up to a higher place
+ <variant> lift
+<variant> race
+<variant> propel
+<variant> grab 
+<variant> push 
+<question> to be in a vertical position
+<variant> stand
+<variant> stay
+<variant> lay
+<variant> rest
+<variant> go
+<question> to make something work by giving it power
+<variant> turn on
+<variant> turn of
+<variant> get up
+<variant> give up
+<variant> take off
+<question> to stop holding something
+ <variant> release
+<variant> put
+<variant> take
+<variant> push
+<variant> roll
+<question> to connect something so it can be used
+<variant> install
+<variant> propel
+<variant> design
+<variant> develop
+<variant> make
+<question> to look at something closely
+<variant> inspect
+<variant> watch
+<variant> see
+<variant> find
+<variant> improve
+<question> to turn on power or electricity
+ <variant> connect
+<variant> release
+<variant> control
+<variant> practice
+<variant> maintain
+<question> to try something to make sure it works
+<variant> test
+<variant> design
+<variant> propel
+<variant> apply
+<variant> maintain
+<question> The electrician …. the ladder.
+<variant> climbed
+<variant> went
+<variant> made
+<variant> tested
+<variant> fell
+<question> I had to ….. the box up the hill.
+<variant> push
+<variant> have
+<variant> give
+<variant> bind
+<variant> test
+<question> Wait, don`t ….. on the rope! It`s caught on my left arm.
+ <variant> pull
+<variant> put
+<variant> use
+<variant> push
+<variant> roll
+<question> He …. the bag and ran away.
+<variant> grabbed
+<variant> had
+<variant> made
+<variant> used
+<variant> kept
+<question> Please ….  off the TV before you leave.
+<variant> turn 
+<variant> watch
+<variant> see
+<variant> stop
+<variant> set
+<question> a unit used to measure temperature
+ <variant> degree
+<variant> mass
+<variant> force
+<variant> length
+<variant> volume
+<question> the system that uses inches
+<variant> imperial
+<variant> metric
+<variant> base
+<variant> cubic
+<variant> derived
+<question> to change from one system into another
+<variant> convert
+<variant> test
+<variant> make
+<variant> use
+<variant> keep
+<question> the metric temperature scale
+<variant> Celsius
+<variant> Fahrenheit
+<variant> kelvin
+<variant> pascal
+<variant> newton
+<question> a metric measure of length or distance
+<variant> centimeter
+<variant> yard
+<variant> feet
+<variant> millimeter
+<variant> inch
+<question> a tool that measures small distances
+<variant> micrometer
+<variant> multimeter
+<variant> labeling machine
+<variant> thermometer
+<variant> ruler
+<question> the strength of moving electricity
+ <variant> voltage 
+<variant> force
+<variant> current
+<variant> quantity
+<variant> newton
+<question> a measurement of the force of electricity
+<variant> volt
+<variant> kelvin
+<variant> ohm
+<variant> newton
+<variant> pascal
+<question> the quantity of electricity in a wire
+<variant> current
+<variant> resistance
+<variant> circuit
+<variant> volt
+<variant> ohm
+<question> a measurement showing resistance
+<variant> ohm
+<variant> volt
+<variant> voltage
+<variant> newton
+<variant> pascal
+<question> a current that flows in two directions
+<variant> alternating current (AC)
+<variant> direct current (DC)
+<variant> electron
+<variant> watt
+<variant> circuit
+<question> a current that flows in one direction
+<variant> direct current (DC)
+<variant> alternating current (AC)
+<variant> ampere
+<variant> watt
+<variant> circuit
+<question> An …. is too small to see without a powerful microscope.
+<variant> electron
+<variant> neuron
+<variant> inch
+<variant> unit
+<variant> degree
+<question> Many wires are made out of copper because of its low …...
+ <variant> resistance
+<variant> mass
+<variant> force
+<variant> length
+<variant> volume
+<question> A …. measures how much electrical power is being used.
+<variant> watt
+<variant> pascal
+<variant> joule
+<variant> ohm
+<variant> newton
+<question> A common way to measure electric current is …...
+<variant> amperes
+<variant> pascal
+<variant> kelvin
+<variant> ohm
+<variant> newton
+<question> Touching live …. is very dangerous.
+<variant> wire
+<variant> conductor
+<variant> circuit
+<variant> hazard
+<variant> jacket
+<question> Electricians ….. sockets before they work on them.
+<variant> de-energize
+<variant> decode
+<variant> develop
+<variant> detect
+<variant> destroy
+<question> something that is not safe
+ <variant> hazard
+<variant> force
+<variant> gravity
+<variant> speed
+<variant> temperature
+<question> to make the muscles stop moving
+<variant> paralyze
+<variant> act
+<variant> feel
+<variant> confuse
+<variant> seem
+<question> to pass electricity through the body
+<variant> shock
+<variant> resistance
+<variant> sadness
+<variant> anger
+<variant> surprise
+<question> a rule to lock energy sources when it`s being repaired
+<variant> lockout procedure
+<variant> electronic lockout
+<variant> security lockout
+<variant> lockout code
+<variant> lockout file
+<question> metal-clad cable
+<variant> wires in steel insulation with a grounding wire
+<variant> wires in thermoplastic insulation above ground
+<variant> wires encased in aluminum jacket
+<variant> wires that run through porcelain cover
+<variant> wires found in old homes
+<question> UF cable (Underground feeder cable)
+<variant> wires for underground, wet areas in a thermoplastic jacket
+<variant> several types of wires and cables
+<variant> indoor and outdoor wires
+<variant> armored cables and wires
+<variant> bare wires and conductors
+<question>…. work opposite to each other.
+<variant>Ailerons
+<variant>Cockpit
+<variant>fuselage
+<variant>Slats
+<variant>Spoiler
+<question>……is always mounted to the top of an airplane.
+<variant>The GPS antenna
+<variant>Cockpit
+<variant>fuselage
+<variant>Slats
+<variant>Spoiler
+<question>..., sometimes referred to as the Flight Deck, is where the pilots sit.
+<variant>The cockpit
+<variant>engine 
+<variant>Fuselage
+<variant>Slats
+<variant>Spoiler
+<question>……. control the pitch (the up and down motion) of an airplane.
+<variant>Elevators
+<variant>Engine
+<variant>Fuselage
+<variant>Slats
+<variant>Spoilers
+<question>…… is located on the tail and directs the nose of the aircraft either upwards or downwards (pitch) in order to make the airplane climb and descend.
+<variant>Elevator 
+<variant>Engine 
+<variant>Fuselage
+<variant>Slats
+<variant>Spoiler
+<question>…works identically to the   feather on the arrow, helping guide the aircraft to its destination.
+<variant>The empennage
+<variant>The elevator
+<variant>The fuselage
+<variant>The slats
+<variant>The wheels
+<question>….provides the thrust needed to fly.
+<variant>Engine
+<variant>The elevator
+<variant>The fuselage
+<variant>The slats
+<variant>The wheels
+<question>...are a “high lift / high drag” device.
+<variant>Flaps
+<variant>Engines
+<variant>The elevator
+<variant>The slats
+<variant>The wheels
+<question>...or body of the airplane, which holds all the pieces of an airplane together and holds the passengers and cargo safely inside.
+<variant>The fuselage,
+<variant>The wings,   
+<variant>The slats,
+<variant>The engines,
+<variant>The wheels, 
+<question>Many external airplane components are constructed of …. alloys.
+<variant>metal
+<variant>aluminum
+<variant>gold
+<variant>plastic
+ <variant>material
+<question>...is to provide stability for the aircraft, to keep it flying straight.
+<variant>The stabilizers' job
+<variant>The engines' job
+<variant>The wins' job
+<variant>The wheels' job
+<variant>The fuselage' job
+<question>...prevents an up-and-down motion of the nose, which is called pitch. 
+<variant>The horizontal stabilizer
+<variant>The nose
+<variant>The flaps
+<variant>The engine
+<variant>The wheel
+<question>... is attached to the vertical stabilizer, located on the tail of the aircraft.
+<variant>The rudder
+<variant>The cockpit
+<variant>The wing
+<variant>The engine
+<variant>Slat
+<question>The vertical stabilizer keeps the nose of the plane from swinging from side to side, which is called ….
+<variant>yaw
+<variant>engine
+<variant>antenna
+<variant>flap
+<variant>slat
+<question>...is the up and down motion of an airplane.
+<variant>Pitch
+<variant>Wing
+<variant>Yaw
+<variant>Winglet
+<variant>Cockpit
+<question>...is the side-to-side motion of an airplane
+<variant>Yaw
+<variant>Spoiler
+<variant>Jet engine
+<variant>Landing gear
+<variant>Wheel
+<question>...are another part of the undercarriage, or landing gear.
+<variant>The wheels
+<variant>The wings
+<variant>The yaw
+<variant>The wheel
+<variant>The ailerons
+<question>A part that controls the supply of fuel to an engine is …..
+<variant>throttle
+<variant>yoke
+<variant>center stick 
+<variant>lift
+<variant>windscreen
+<question>A control in a cockpit that changes the position of an aircraft`s rudder is
+<variant>rudder pedals
+<variant>yoke
+<variant>center stick 
+<variant>lift
+<variant> throttle
+<question>A window in the front of an aircraft that protects the occupants is ….
+<variant>windshield
+<variant>yoke
+<variant>center stick 
+<variant>lift
+<variant> throttle
+<question> A part that controls the pitch of an aircraft and is located to the side of a pilot`s    seat
+<variant>side stick
+<variant>yoke
+<variant>center stick 
+<variant> rudder pedals
+<variant> throttle
+<question>A W-shaped part that controls the pitch of an aircraft and is located      directly in front of the pilot is ….
+<variant>yoke
+<variant> rudder. 
+<variant>elevator. 
+<variant>pedestal
+<variant>horizontal stabilizer.
+<question> The area in a cockpit where information is displayed about the  progress  and status of an airplane flight
+<variant>instrument panel
+<variant>weather radar
+<variant>overhead panel
+<variant>resister
+<variant>conductor
+<question> The area in a cockpit above a pilot`s head that contains controls
+<variant>overhead panel
+<variant>center stick
+<variant>weather radar
+<variant> instrument panel
+<variant>conductor
+<question3> Find the word with a similar meaning: air flow
+<variantright>air stream
+<variantright>a current of air
+<variantright>air flowing
+<variant>air flash
+<variant>kite
+<question3> Find the word with a similar meaning: Device
+<variantright>appliance
+<variantright>mechanism
+<variantright>arrangement
+<variant>circuit 
+<variant> software
+<question3> Find the word with a similar meaning: power plant
+<variantright>engine
+<variantright>motor
+<variantright>mover
+<variant>point
+<variant>tool
+<question3> Find the word with a similar meaning: wing
+<variantright>surface
+<variantright>airfoil
+<variantright>fly
+<variant>back
+<variant>line
+<question3> Find the word with a similar meaning: locate
+<variantright>situate
+<variantright>place
+<variantright>set
+<variant>evaluate
+<variant>touch
+<question3> Find the word with a similar meaning: hinge
+<variantright>attach
+<variantright>join
+<variantright>fasten
+<variant>control
+<variant>propel
+<question3> Find the word with a similar meaning: energy
+<variantright>power
+<variantright>intensity
+<variantright>capacity
+<variant>impact
+<variant>rate
+<question3> Find the word with a similar meaning: control
+<variantright>manage
+<variantright>operate
+<variantright>direct
+<variant>effect
+<variant>present
+<question3> Find the word with a similar meaning: shape
+<variantright>format
+<variantright>form
+<variantright>figure
+<variant>grade
+<variant>rate
+<question3> Find the word with a similar meaning: cabin
+<variantright>compartment
+<variantright>bay
+<variantright>department
+<variant>apartment
+<variant>space
+<question3> Find the word with a similar meaning: advance
+<variantright>progress
+<variantright>promotion
+<variantright>approach
+<variant>impact
+<variant>reaction
+<question3> Find the word with a similar meaning: produce
+<variantright>create
+<variantright>generate
+<variantright>manufacture
+<variant>import
+<variant>move
+<question3> Find the word with a similar meaning: 
+<variantright>format
+<variantright>form
+<variantright>figure
+<variant>grade
+<variant>rate
+<question3> Find the word with a similar meaning: propel
+<variantright>move
+<variantright>set in motion
+<variantright>actuate
+<variant>place
+<variant>set
+<question3> Find the word with a similar meaning: aircraft
+<variantright>plane
+<variantright>craft
+<variantright>vehicle
+<variant>cycle
+<variant>wheel
+<question3> Find the word with a similar meaning: skin
+<variantright>covering
+<variantright>sheating
+<variantright>casing
+<variant>providing
+<variant>warning
+<question3> Find the word with a similar meaning: reinforce
+<variantright>strengthen
+<variantright>harden
+<variantright>consolidate
+<variant>slight
+<variant>weaken
+<question3> Find the word with a similar meaning: resist
+<variantright>withstand
+<variantright>confront
+<variantright>oppose
+<variant>improve
+<variant>effect
+<question3> «продольный»
+<variantright>longitudinal
+<variantright>lateral
+<variantright>lengthwise
+<variant>movable
+<variant>direct
+<question3> «поперечный»
+<variantright>transverse
+<variantright>cross
+<variantright>horizontal
+<variant>circular
+<variant>total
+<question3> Find the word with a similar meaning: divide
+<variantright>split
+<variantright>share
+<variantright>subdivide
+<variant>build
+<variant>create
+<question3> Find the word with a similar meaning: pressure
+<variantright>stress
+<variantright>push
+<variantright>tension
+<variant>grade
+<variant>rate
+<question3> Find the word with a similar meaning: contain
+<variantright>house
+<variantright>have
+<variantright>hold
+<variant>produce
+<variant>set
+<question3> Find the word with a similar meaning: solid
+<variantright>hard
+<variantright>strong
+<variantright>rigid
+<variant>flexible
+<variant>elastic
+<question3> Find the word with a similar meaning: flexible
+<variantright>elastic
+<variantright>bendable 
+<variantright> workable
+<variant>strong
+<variant>hard
+<question3> Find the word with a similar meaning: flutter
+<variantright>vibration
+<variantright>shaking
+<variantright>fibrillation
+<variant>stability
+<variant>balance
+<question3> Find the word with a similar meaning: altitude
+<variantright>pitch
+<variantright>height
+<variantright>elevation
+<variant>flat
+<variant>plain
+<question3> Find the word with a similar meaning: precaution
+<variantright>warning
+<variantright>caution
+<variantright>safeguard
+<variant>stability
+<variant>balance
+<question3> «отклонять»
+<variantright>deflect
+<variantright>reject
+<variantright>divert
+<variant>produce
+<variant>set
+<question3> «сокращать»
+<variantright>decrease
+<variantright>reduce
+<variantright>make less
+<variant>grow
+<variant>reinforce
+<question3> «удерживать»
+<variantright>hold
+<variantright>keep
+<variantright>grip
+<variant>install
+<variant>mount
+<question3> «состоять»
+<variantright>consist
+<variantright>contain
+<variantright>include
+<variant>place
+<variant>set
+<question3> «увеличивать»
+<variantright>increase
+<variantright>rise
+<variantright>enlarge
+<variant>contain
+<variant>reduce
+<question3> «предназначать»
+<variantright>intend
+<variantright>purpose
+<variantright> mean
+<variant>choose
+<variant>decide
+<question3> «монтировать»
+<variantright>arrange
+<variantright>mount
+<variantright>install
+<variant>contain
+<variant>decide
+<question3> «приводить в движение»
+<variantright>propel
+<variantright>move
+<variantright>set in motion
+<variant>place
+<variant>set
+<question3>ICAO is a UN specialized agency, ….. by States in 1944.
+<variantright> established
+<variantright> made
+<variantright>build                      
+<variant>had
+<variant>helped
+<question3>ICAO is ….. in Canada, Montreal.
+<variantright> headquartered
+<variantright> located
+<variantright>situated
+<variant>have
+<variant>got
+<question3> What is source of power?
+<variantright>Power plant
+<variantright>Engine
+<variantright>Motor
+<variant>Aileron
+<variant>Rudder
+<question3> The first scientific principles of human flight ….. in the 14-th century.
+<variantright> appeared
+<variantright> came
+<variantright>occurred
+<variant>put
+<variant>built
+<question3>Leonardo de Vinci …. the airscrew and parachute in the 16th century.
+<variantright> invented
+<variantright>designed
+<variantright>developed
+<variant>supported
+<variant>assisted
+<question3>A glider is generally used for…. 
+<variantright>recreational or sporting purposes
+<variantright>entertaining or sporting activities
+<variantright> recreational or sporting aims
+<variant>short distance
+<variant>brief flight
+<question3>The glider had been …… in 1804.
+<variantright>invented
+<variantright>designed
+<variantright>developed
+<variant>broken 
+<variant>got
+<question3>An inventor is….
+<variantright>a person who invented a particular process or device 
+<variantright>a person who developed a particular task or system
+<variantright>a person who innovated a particular method or machine
+<variant>a person who sang songs for the first time     
+<variant>a person who made a first flight
+<question3>Airscrew is ……
+<variantright>an aircraft propeller
+<variantright>an aircraft screw
+<variantright> an aircraft rotor
+<variant>a light aircraft that is designed to fly without using an engine
+<variant>metal drawn out into the form of a thin flexible thread or rod
+<question3>What is “repair”?
+<variantright>to fix something when it is broken
+<variantright>to mend something
+<variantright>to restore something 
+<variant>to destroy
+<variant>to frame something beautiful
+<question3>Assist
+<variantright>help 
+<variantright>support
+<variantright>serve
+<variant>resist
+<variant>cover
+<question3> Air transport is ……… means of transportation of goods and people.
+<variantright> the quickest and efficient
+<variantright> the quickest and operative
+<variantright> the quickest and well organized
+<variant> the longest and non-productive
+<variant> the longest and inefficient
+<question3>This allows …… to take off, hover, and land vertically.
+<variantright>helicopters
+<variantright>rotorcraft
+<variantright>rotor planes
+<variant>turbojets
+<variant>amphibians
+<question3>Airplanes are prepared for flight by …….
+<variantright>ground personnel
+<variantright>ground crew
+<variantright>ground staff
+<variant>fire department
+<variant>medical service
+<question3>…… of an aircraft maintenance engineers is to keep airplane always trimmed and ready for flight.
+<variantright>The primary duty
+<variantright>The primary responsibility
+<variantright>The primary obligation
+<variant>The second lesson
+<variant>The third task
+<question3> Avionics have to deal with……. such as radars, direction finders, speed indicators and others.
+<variantright>communication equipment
+<variantright>connection facilities
+<variantright>transmission equipment
+<variant>flight management
+<variant>aerodynamic information
+<question3> Mechanical engineers adjust, improve and invent new types of …..
+<variantright>hardware
+<variantright>facilities
+<variantright> equipment
+<variant>flight management
+<variant>furniture 
+<question3>The Republic of Kazakhstan ….. a full membership of ICAO in 1992.
+ <variantright>became 
+<variantright>made
+<variantright>got 
+<variant>kept 
+<variant>cut 
+<question3> ….. electrical systems for problems can help prevent fires.
+<variantright>Monitoring
+<variantright>Control
+<variantright>Inspection
+<variant>Improving
+<variant>Planning
+<question3>First in level or importance
+<variantright> primary
+<variantright> basic
+<variantright> initial
+<variant> commonly
+<variant> mostly
+<question2> cargo
+<variantright> goods that are transported by ship or plane
+<variantright> goods that are transported by boat or craft
+<variant> goods that you buy
+<variant> goods that are needed 
+<variant> goods that that they have to pass through 
+<question2> ….. companies prepare food that is brought on to planes.
+<variantright> Food kitchens 
+<variantright>Catering
+<variant> Cafe             
+<variant> Canteen
+<variant> Restaurants 
+<question2>……… are buildings in which airplanes are repaired or serviced
+<variantright>Hangars
+<variantright>Overhangs
+<variant>Gates  
+<variant>Check-in counters
+<variant>Terminals
+<question2>Flight is…..
+<variantright>the action or process of flying through the air
+<variantright>the action or process of flying through the atmosphere
+<variant>the action or process of flying through the ground    
+<variant>the action or process of flying through the water    
+<variant>the action or process of swimming
+<question2>A glider is a special kind of aircraft that … … …
+<variantright>has no engine
+<variantright>has no motor
+<variant>has three engines
+<variant>has five engines
+<variant>has two engines
+<question2> What is the fuselage?
+<variantright> Central body
+<variantright> Central corps
+<variant>Monocoque type
+<variant> Part of the nacelle
+<variant>Part of the wing
+<question2>This allows …… to take off, hover, and land vertically.
+<variantright>helicopters
+<variantright>rotorcraft
+<variant>business Jets
+<variant>amphibians
+<variant> turbojets
+<question2>Find the correct meaning to the word: progress
+<variantright>moving forward 
+<variantright>going forward  
+<variant>trying to do something
+<variant>show how it works
+<variant>correct, without mistakes
+<question2>Find the correct meaning to the word: attempt
+<variantright>trying to do something 
+<variantright>making an effort 
+<variant>something very easy
+<variant>show how it works
+<variant>correct, without mistakes
+<question2>Find the correct meaning to the word: accurate
+<variantright> correct, without mistakes 
+<variantright>precise  
+<variant>trying to do something
+<variant>show how it works
+<variant>something very easy
+<question2>The _______of the Internet changed global communication.
+<variantright>invention
+<variantright>creation  
+<variant>software
+<variant>laptop 
+<variant>discovery
+<question2>Find the correct meaning of the phrases: a number of
+ <variantright>variety of
+ <variantright>plenty of           
+ <variant>least  
+ <variant>limit of  
+ <variant>minimum  
+<question2>Cities with a lot of people living in a small area are very _____.
+<variantright>crowded
+<variantright>full 
+<variant>polluted
+<variant>peaceful
+<variant>quiet
+<question2> He ____ his passport, so he had to contact the embassy. 
+ <variantright>lost
+ <variantright>failed         
+ <variant>missed 
+ <variant>took
+ <variant>lent
+<question2>We tried to _____ our flight online, but we couldn`t. 
+<variantright>book
+<variantright>make a reservation for
+<variant>rent
+<variant>buy
+<variant>hire
+<question2>The flight attendant asked us to  ____our seatbelts. 
+<variantright>fasten
+<variantright>fix
+<variant>set 
+<variant>put
+<variant>join
+<question2>He got a stuck in a traffic jam and _____ his flight.
+<variantright> missed
+<variantright>passed over
+<variant>lost 
+<variant>checked
+<variant>cost
+<question2> Find the word with a similar meaning: Encircled
+<variantright>surrounded
+<variantright>circled
+<variant>middle
+<variant>center
+<variant>admired
+<question2> Find the word with a similar meaning: Luminous
+<variantright>light
+<variantright>bright
+<variant>dangerous
+<variant>glorious
+<variant>clear
+<question2> Find the word with a similar meaning: Vast
+<variantright>spacious
+<variantright>huge
+<variant>cozy
+<variant>light
+<variant>picturesque
+<question2> Find the word with a similar meaning: Up-to-date
+<variantright>modern
+<variantright>current
+<variant>creative
+<variant>artistic
+<variant>smart
+<question2> They ……  electric motors to make the dragon move.
+<variantright> installed
+<variantright> mounted
+<variant> completed                 
+<variant> built
+<variant> left
+<question2> I ….. lights when I come into a room.
+<varianrightt> turn on
+<variantright> switch on
+<variant> set up  
+<variant> go up
+<variant> get on
+<question2> I take a shower instead of bath to …..  on the amount of water.
+<variantright>save 
+<variantright>spare 
+<variant> put 
+ <variant> have
+ <variant> let
+ <question2> When I brush my teeth I never leave the tap ……. 
+<variantright>running
+<variantright>going
+<variant> starting
+<variant> round
+<variant> changing
+<question2> To save energy at home use ……  light bulbs.
+<variantright>fluorescent
+<variantright>luminous
+<variant> sparkling
+<variant> brilliant
+<variant> delicate
+<question2> Water covers most of the Earth`s … .
+<variantright>surface
+<variantright>area
+<variant>level
+<variant>landscape  
+<variant>region
+<question2>The average UK …. uses 150 liters of water every day.
+<variantright>citizen
+<variantright>national  
+<variant>partners
+<variant>students
+<variant>companion  
+<question2>Don`t …. a lot of water when you wash your car.
+<variantright>waste
+<variantright>throw away
+<variant>have                         
+<variant>pour
+<variant>lose
+<question2>Water moves in a ….. cycle, rising from the see.
+<variantright>continuous
+<variantright>constant
+<variant>glorious
+<variant>large
+<variant>strong
+<question2>Rubbish makes our streets look ….. and smells bad.
+<variantright>dirty
+<variantright> messy
+<variant>fresh
+<variant>sanitary
+<variant>common
+<question2> I am going to clean up the ….. in our river.
+<variantright> rubbish
+<variantright>trash
+<variant>glass 
+<variant>plastics
+<variant>carton
+<question2> The ozone layer in the atmosphere …… us from radiations. 
+<variantright>protects
+<variantright>shields 
+<variant>makes
+<variant>increases
+<variant>develops
+<question2> Scientists and engineers can find the ways to reduce ….. . 
+<variantright>pollution
+<variantright>dirty
+<variant>frost                 
+<variant>freeze
+<variant>fossil
+<question2>People destruct wildlife, …..  trees to make furniture.
+<variantright>cut down 
+<variantright>fell
+<variant>switch on
+<variant>take off
+<variant>give away
+<question2>Greenpeace helps animals to … 
+<variantright>survive
+<variantright>get through  
+<variant>develop 
+<variant>change
+<variant>manage
+<question2> What can government and individuals do to ….  pollution?
+ <variantright>reduce
+<variantright>decrease
+<variant>reach
+<variant>operate
+<variant>note
+<question2>The protection of the ….  is an important task of the society.
+<variantright>environment
+<variantright>atmosphere
+<variant>range
+<variant>situation
+<variant>rate
+<question2> We can help stop global warming by using less …...
+<variantright>energy
+<variantright>power
+<variant>recycling
+<variant>force
+<variant>air
+<question2> If we ….. lights, we will save energy.
+<variantright>turn off
+<variantright> switch off  
+<variant>stay on
+<variant>put on
+<variant>take off
+<question2>If we walk or use public transport, we ….  ….. air pollution.
+<variantright>will reduce
+<variantright>will decrease  
+<variant>will grow
+<variant>will install
+<variant>will enlarge
+<question2>If we want to save our world, we can ….  an environmental group. 
+<variantright>join
+<variantright>enter
+<variant>enjoy
+<variant>share
+<variant>except
+<question2>…..  everything from paper to soup tins and aerosol cans. 
+<variantright>Recycle 
+<variantright>Reuse 
+<variant>Install                    
+<variant>Put
+<variant>Attach
+<question2>Exhaust fumes and burning fossil ……  the air. 
+<variantright>pollute
+<variantright>dirty
+<variant>ignite
+<variant>spread
+<variant>freeze 
+question>Helicopter is…….
+<variant>a type of aircraft which derives both lift and propulsion from one or two sets of horizontally revolving overhead rotors.
+<variant>a light aircraft that is designed to fly without using an engine  
+<variant>metal drawn out into the form of a thin flexible thread or rod  
+ <variant>an aircraft propeller   
+<variant>an aeroplane with one pair of wings
+<question> The movable surfaces of the tail unit are….
+<variant>an elevator, a rudder
+<variant>an engine, an elevator
+<variant>a stabilizer, an elevator
+<variant> a cockpit, a rudder
+<variant>a rudder, a fin
+<question>….is the name given to the entire tail section of the aircraft, including both the horizontal and vertical stabilizers, the rudder and the elevator.
+<variant>The empennage 
+<variant>The elevator
+<variant>The fuselage
+<variant>The slats
+<variant>The wheels
+<question>…. provides the thrust needed to fly.
+<variant>Engine
+<variant>The elevator
+<variant>The fuselage
+<variant>The slats
+<variant>The wheels
+<question>This allows …… to take off, hover, and land vertically.
+<variant>helicopters
+<variant>turbojets
+<variant>business Jets
+<variant>amphibians
+<variant>single-Engine Pistons
+<question> The wings ...the plane in the flight.
+<variant> support 
+<variant> stable 
+<variant> lift 
+<variant> create 
+<variant> was driving
+ <question> The snow was two meters deep and they _____ move.
+<variant> couldn`t
+<variant> can`t
+<variant> can
+<variant> wasn`t able
+<variant> use to
+ <question> Where______ work?
+<variant> do you 
+<variant> you do
+<variant> has you
+<variant> does you
+<variant> you did 
+<question> Choose the suitable translating: Различные силы действуют на ВС во время полёта.
+<variant> Different forces act on the AC in the flight. 
+<variant> Separating forces acts on the AC in the flight.
+<variant> Aerodynamic forces is acts on the AC in the flight.
+<variant> Some forces to act on the AC in the flight.
+<variant> Some forces depend on the AC in the flight.
+<question> Translate the following word combinations into Russian: To prevent the shocks of landing
+<variant> предотвращать удары во время посадки 
+<variant> препятствовать торможению на земле 
+<variant> предугадывать встряски на земле 
+<variant> прогнозировать шокирующую посадку
+<variant> предоставить удар на земле
+
+
+
+

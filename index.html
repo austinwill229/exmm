@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aviation English Quiz Practice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="background-glow"></div>
+  <main class="app-shell">
+    <header class="hero">
+      <p class="eyebrow">Practice Mode</p>
+      <h1>Aviation English ICAO4 Quiz</h1>
+      <p class="subtitle">The quiz is split into parts of 15 questions. Variant 1 is the correct answer for every question.</p>
+    </header>
+
+    <section class="controls card" aria-label="Quiz controls">
+      <div class="control-group">
+        <label for="partSelect">Part</label>
+        <select id="partSelect"></select>
+      </div>
+      <div class="control-group">
+        <span class="metric-label">Progress</span>
+        <strong id="partProgress">0 / 0 answered</strong>
+      </div>
+      <div class="control-group">
+        <span class="metric-label">Part Score</span>
+        <strong id="partScore">Not checked yet</strong>
+      </div>
+      <div class="actions">
+        <button id="prevBtn" type="button">Previous Part</button>
+        <button id="randomizeBtn" type="button">Randomize Answers</button>
+        <button id="checkBtn" type="button" class="primary">Check Part</button>
+        <button id="nextBtn" type="button">Next Part</button>
+        <button id="resetBtn" type="button" class="ghost">Reset Part</button>
+      </div>
+    </section>
+
+    <section id="status" class="status" role="status" aria-live="polite"></section>
+
+    <section class="card quiz-panel">
+      <ol id="questionList" class="question-list"></ol>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

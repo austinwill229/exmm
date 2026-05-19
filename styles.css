@@ -1,0 +1,239 @@
+:root {
+  --bg-a: #0a1f44;
+  --bg-b: #072227;
+  --card: rgba(255, 255, 255, 0.94);
+  --ink: #14213d;
+  --muted: #5d6a7e;
+  --line: #d5deea;
+  --good: #1a7f37;
+  --bad: #b3261e;
+  --accent: #ff9f1c;
+  --accent-2: #2ec4b6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font-family: "Space Grotesk", sans-serif;
+  background: radial-gradient(circle at 10% 20%, #1c4fa6 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, #0e7a73 0%, transparent 35%),
+    linear-gradient(135deg, var(--bg-a), var(--bg-b));
+}
+
+.background-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image: linear-gradient(120deg, transparent 40%, rgba(255, 255, 255, 0.06) 50%, transparent 60%);
+  background-size: 200% 100%;
+  animation: sweep 14s linear infinite;
+}
+
+.app-shell {
+  width: min(980px, 94vw);
+  margin: 2rem auto 3rem;
+  position: relative;
+  z-index: 1;
+}
+
+.hero {
+  margin-bottom: 1rem;
+  color: #f4f8ff;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72rem;
+  opacity: 0.85;
+}
+
+h1 {
+  margin: 0.3rem 0 0.6rem;
+  font-family: "Fraunces", serif;
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  line-height: 1.1;
+}
+
+.subtitle {
+  margin: 0;
+  max-width: 70ch;
+  color: #dce8ff;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  border-radius: 18px;
+  box-shadow: 0 15px 40px rgba(7, 34, 39, 0.28);
+}
+
+.controls {
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(140px, 1fr));
+  gap: 0.85rem;
+  align-items: end;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+label,
+.metric-label {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+select,
+button {
+  font-family: inherit;
+}
+
+select {
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-size: 0.95rem;
+  background: white;
+}
+
+.actions {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+button {
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 0.56rem 0.92rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: #edf1f8;
+  color: var(--ink);
+  transition: transform 0.14s ease, box-shadow 0.14s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 16px rgba(20, 33, 61, 0.14);
+}
+
+button.primary {
+  background: linear-gradient(90deg, var(--accent), #f7b538);
+}
+
+button.ghost {
+  background: white;
+  border-color: var(--line);
+}
+
+.status {
+  margin: 0.8rem 0;
+  min-height: 1.1rem;
+  color: #eef5ff;
+  font-weight: 500;
+}
+
+.quiz-panel {
+  padding: 1rem;
+}
+
+.question-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  display: grid;
+  gap: 0.8rem;
+}
+
+.question-item {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0.8rem;
+  background: #fcfdff;
+  animation: fadeIn 0.25s ease both;
+}
+
+.question-text {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.options {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.options label {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: 10px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.options label:hover {
+  background: #eef5ff;
+}
+
+.question-item.correct {
+  border-color: rgba(26, 127, 55, 0.45);
+  background: #f3fcf6;
+}
+
+.question-item.wrong {
+  border-color: rgba(179, 38, 30, 0.42);
+  background: #fff6f6;
+}
+
+.feedback {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+}
+
+.feedback.good {
+  color: var(--good);
+}
+
+.feedback.bad {
+  color: var(--bad);
+}
+
+@keyframes sweep {
+  from { background-position: 180% 0; }
+  to { background-position: -40% 0; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 720px) {
+  .controls {
+    grid-template-columns: 1fr;
+  }
+
+  .actions {
+    justify-content: space-between;
+  }
+
+  button {
+    flex: 1 1 calc(50% - 0.55rem);
+  }
+}
