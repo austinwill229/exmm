@@ -1,0 +1,224 @@
+1. Basic Concepts and Operating Principles of Aircraft Gas Turbine Engines
+Aircraft gas turbine engines follow the Brayton-cycle idea: intake, compression, combustion, expansion, and exhaust. Air is compressed, fuel is burned at near-constant pressure, and the hot gas expands through turbine stages that drive the compressor, with remaining energy converted into jet velocity at the nozzle. In practical engine layout, the key modules are inlet, compressor, combustor, turbine, and exhaust.
+
+2. Operating Principles of Aircraft Gas Turbine Engines
+Operation is continuous-flow, not intermittent like a piston engine. The compressor raises pressure, the combustor adds heat, and the turbine extracts enough power to drive rotating groups; the nozzle then converts pressure energy to high exit velocity. Net thrust comes from rearward acceleration of mass flow and pressure effects at the nozzle.
+
+3. Design Features of Various Types of Gas Turbine Engines
+Main aero gas turbine types are turbojet, turbofan, turboprop, and turboshaft. Turbojet prioritizes high specific thrust; turbofan adds a bypass stream for better subsonic efficiency and lower noise; turboprop/turboshaft extract more shaft power through turbine stages and gearing. Choice depends on mission speed range, fuel economy, and noise limits.
+
+4. Turbojet Engines
+A turbojet has a single main gas path through compressor, combustor, turbine, and nozzle. Most useful output is jet thrust from the high-speed exhaust, with turbine work mainly used internally to run the compressor. Turbojets are compact and effective at high speed but usually noisier and less fuel-efficient than high-bypass turbofans in civil transport use.
+
+5. Principle of Operation and Classification of Dual-Circuit Turbojet Engines
+Dual-circuit engines are turbofans with two streams: core flow and bypass flow. They are commonly classified by bypass ratio (low, medium, high, ultra-high) and by exhaust arrangement (mixed or unmixed). Higher bypass ratio generally improves propulsive efficiency and reduces noise in subsonic transport operations.
+
+6. Characteristics of Aircraft Engines
+Engine characteristics are described by thrust/power capability, specific fuel consumption, efficiency, operability margin, and durability limits. Practical operation also depends on altitude, airspeed, ambient temperature, and rated limits (RPM, EGT/ITT, pressure ratio). Modern engines are optimized for reliability, maintainability, and emissions compliance.
+
+7. Thrust and Specific Parameters of the Power Plant
+Core terms include gross thrust, net thrust, and choked-nozzle pressure thrust. Specific parameters include thrust specific fuel consumption and, where relevant, equivalent shaft horsepower concepts. These values allow comparison of efficiency and output across different engine configurations.
+
+8. Change in the Parameters of the Working Fluid in the Flow Section of the Engine
+Across the compressor, pressure and temperature rise. In the combustor, temperature rises strongly with a small pressure loss; in turbine stages, pressure and temperature drop as work is extracted. In the nozzle, remaining pressure converts to velocity, producing final propulsive effect.
+
+9. Throttle and Altitude-Speed Characteristics of Gas Turbine Engines
+Throttle changes fuel flow and therefore spool speed, turbine temperature, and thrust within protection limits. As altitude increases, air density and available mass flow decrease, reducing available thrust. Airspeed affects intake momentum/ram recovery and overall engine operating point.
+
+10. Inlet Devices of Gas Turbine Engines
+The inlet must deliver smooth, uniform, low-loss airflow to the compressor/fan face over the full flight envelope. Good inlet design prevents distortion, preserves pressure recovery, and protects compressor stability margin. Intake aerodynamic quality directly affects performance and surge resistance.
+
+11. Purpose and Types of Inlet Devices
+Inlet devices provide controlled air admission to the engine and may include geometry or features for specific speed regimes. Typical categories are subsonic inlets, supersonic inlets with shock-control concepts, and specialized turboprop/APU intake layouts. Selection depends on aircraft speed range and installation constraints.
+
+12. Protection of the Engine from Foreign Objects
+FOD control combines design and operation: intake geometry, separators/screens where fitted, runway/ramp cleanliness, and strict ground procedures. Engine certification also includes ingestion tolerance requirements for specified hazards. Preventing foreign-object entry is critical to fan/compressor integrity.
+
+13. Anti-Icing Devices
+Engine anti-ice commonly uses compressor bleed air to heat intake lips and critical surfaces. Some systems include electrical heating or hybrid approaches depending on design. The objective is to prevent ice accretion that can cause flow distortion, blade impact, and compressor instability.
+
+14. Fan Noise Reduction Devices
+Noise reduction uses acoustic liners, optimized fan/stator geometry, and exhaust mixing treatments such as chevrons in many designs. Higher bypass flow itself lowers jet velocity and perceived noise for civil engines. Noise control must be balanced with thrust and fuel efficiency.
+
+15. Compressors of Gas Turbine Engines
+The compressor raises total pressure so combustion can occur efficiently and turbine work can be extracted effectively. It is a major consumer of turbine power and therefore central to cycle performance. Compressor operability (stall/surge margin) is as important as peak efficiency.
+
+16. Purpose and Main Parameters of the Compressor
+Main compressor parameters include pressure ratio, corrected mass flow, efficiency, outlet temperature, and speed lines. Surge margin is a key practical parameter for safe acceleration and transient operation. Compressor matching to turbine and control system determines stable engine behavior.
+
+17. Types and Design of Compressors
+Aircraft engines use axial, centrifugal, or mixed compressor arrangements. Axial compressors support high mass flow and multistage pressure rise; centrifugal stages provide strong pressure increase per stage and are common in some smaller engines/APUs. Design choice depends on required flow, size, and operating map.
+
+18. Design and Power Schemes of Axial Compressors
+Axial compressors use alternating rotor and stator rows: rotor adds energy, stator diffuses and redirects flow. Multi-spool architectures improve matching across operating conditions by allowing different rotational speeds. Turbine sections are mechanically linked to corresponding compressor spools.
+
+19. Compressor Control
+Control methods include variable inlet guide vanes, variable stator vanes, and bleed valves. These devices manage incidence and pressure ratio progression to avoid stall/surge during start, acceleration, and off-design flight. Modern FADEC schedules these controls together with fuel flow.
+
+20. Combustion Chambers of Gas Turbine Engines
+The combustor must provide stable, efficient burning over wide operating conditions while minimizing pressure loss. It supplies a controlled turbine-inlet temperature profile and protects hardware through airflow management. Combustor design strongly affects emissions, relight capability, and durability.
+
+21. Purpose and Main Parameters of Combustion Chambers
+Important combustor parameters include combustion efficiency, pressure drop, outlet temperature distribution, and stability margin. Fuel-air ratio control and atomization quality are crucial for complete burn and low smoke. Good combustor design balances performance, emissions, and liner life.
+
+22. Combustion Chamber Design and Principle of Operation
+Compressed air is split into primary, secondary, and dilution flows. Fuel nozzles atomize fuel into the primary zone where ignition starts combustion; downstream zones complete burn and shape turbine-inlet temperature. Continuous operation is maintained after start without constant spark in normal conditions.
+
+23. Main Structural Elements of Combustion Chambers
+Typical elements are combustor casing, diffuser, liner/flame tube, dome/swirler area, fuel injectors, and igniter fittings. Cooling holes and dilution ports control liner temperature and exit profile. Structural supports accommodate thermal expansion and vibration.
+
+24. Heat Pipe Cooling Systems
+In practical gas turbine hot-section context, cooling is mainly by internal convection, impingement, and film cooling using compressor bleed air. The purpose is to keep metal temperatures below material limits despite very high gas temperatures. Effective cooling enables higher cycle temperature and better efficiency.
+
+25. Fuel Nozzles
+Fuel nozzles meter and atomize fuel for uniform mixing and stable combustion. Designs such as duplex or airblast arrangements support operation from start to high power. Nozzle condition directly affects ignition quality, emissions, and hot-streak distribution.
+
+26. Combustion Chamber Housings
+Combustor housings provide pressure containment, structural support, and module interface between compressor and turbine. They must withstand thermal gradients, vibration, and pressure loads. Correct housing alignment helps preserve combustor and turbine life.
+
+27. Aircraft Engine Turbines
+The turbine converts gas energy into shaft work to drive compressors/fan and accessories or free-power output where applicable. Turbine design is stage-based, with stationary vanes and rotating blades in sequence. Efficiency and durability depend on aerodynamics, materials, and cooling.
+
+28. Purpose and Design Configurations of Gas Turbines
+Gas turbines are configured by mission: pure thrust emphasis (turbojet), mixed thrust with bypass (turbofan), or shaft-power emphasis (turboprop/turboshaft). Axial and radial turbine arrangements exist, though axial is dominant in larger aero engines. Configuration defines performance, fuel use, and installation characteristics.
+
+29. Turbine Rotors
+Turbine rotors consist of disks and blades attached to engine shafts, transmitting extracted work to compressor/fan systems. They operate under high centrifugal stress and thermal loading. Accurate balance and robust attachment geometry are essential to avoid vibration and fatigue damage.
+
+30. Turbine Blades
+Turbine blades are high-load aerodynamic parts designed to extract energy efficiently from hot gas flow. They use advanced superalloys and protective coatings to resist oxidation and creep. Blade profile and cooling design strongly influence stage efficiency and engine life.
+
+31. Blade Cooling
+Cooling air from compressor stages passes through internal blade passages and exits through film holes where required. Methods include convection, impingement, and film cooling. Proper cooling permits high turbine entry temperatures while maintaining acceptable metal temperature margins.
+
+32. Turbine Stators
+Turbine stators, also called nozzle guide vanes, accelerate and direct gas onto rotor blades at the required angle. They set stage loading and affect downstream flow quality. Like rotors, stators require high-temperature materials and often internal cooling.
+
+33. Exhaust Gas Output Devices of Gas Turbine Engines
+Exhaust devices guide and accelerate post-turbine flow to produce useful thrust efficiently. Their geometry influences pressure recovery, jet velocity, and overall engine performance. They also integrate with noise control and, in some designs, augmentation or reverser functions.
+
+34. Types of Exhaust Devices (Nozzles)
+Common nozzle types are convergent, convergent-divergent, and variable-area designs. Convergent-divergent or variable nozzles are used when operating range includes high jet pressure ratios or augmentation. Correct nozzle matching is important for turbine back-pressure and thrust optimization.
+
+35. Exhaust Devices of Dual-Circuit Turbojet Engines
+Turbofan exhaust may be unmixed (separate core and fan nozzles) or mixed through a common duct/nozzle. The chosen arrangement affects efficiency, noise, and installation. In many civil engines, fan-stream management is central to low-noise, high-efficiency operation.
+
+36. Reversible Devices
+Thrust reversers redirect flow to provide reverse thrust after touchdown, reducing landing roll and brake load. Main arrangements include bucket/clamshell and fan-cascade with blocker doors. Reverser operation is interlocked and typically limited to ground use for safety.
+
+37. Bearings and Seals of Gas Turbine Engines
+Bearings support rotating shafts under combined radial and axial loads, while seals control oil and air leakage between compartments. Both operate in severe thermal and vibratory environments. Their condition is critical to rotor stability, oil-system integrity, and engine reliability.
+
+38. Purpose of Gas Turbine Engine Supports
+Engine supports transfer engine weight, thrust, and maneuver loads into aircraft structure while maintaining alignment. They are designed for strength, fatigue resistance, and thermal accommodation. Proper support architecture protects both engine and pylon/airframe interfaces.
+
+39. Operating Conditions and Design Features of Gas Turbine Engines
+Gas turbine engines must withstand high temperature, high RPM, pressure cycles, and vibration across wide altitude/speed ranges. Design solutions include superalloys, cooling air circuits, advanced seals, and precise control systems. Modern layouts aim to improve efficiency while preserving operability margins.
+
+40. Gas Turbine Engine
+A gas turbine engine is a continuous-flow heat engine that produces thrust and/or shaft power by processing air and fuel through compressor, combustor, turbine, and exhaust sections. In aircraft use, the dominant types are turbojet, turbofan, turboprop, and turboshaft. System performance depends on both thermodynamic cycle and component matching.
+
+41. Design of Aircraft Bearings in Gas Turbine Engines
+Typical engine bearing systems use ball bearings for combined radial/axial loads and roller bearings mainly for radial loads. Material selection, internal geometry, and lubrication strategy are chosen for high-speed durability. Bearing arrangement also manages shaft growth and thermal expansion behavior.
+
+42. Fuels and Lubricants for Gas Turbine Engines
+Aviation turbine fuel must meet strict specifications for combustion quality, low-temperature behavior, cleanliness, and compatibility. Lubricants must provide viscosity control, oxidation resistance, and thermal stability at high temperature. Correct fuel/oil quality is essential for safety, efficiency, and component life.
+
+43. Purpose, Types, and General Requirements for Lubricants
+Lubricants reduce friction, remove heat, protect from corrosion, and carry wear debris to filters/chip detection. In modern gas turbines, synthetic oils are standard because of superior thermal stability and wide operating range. Required properties include correct viscosity behavior, chemical stability, and contamination resistance.
+
+44. Jet Engine Fuels and Requirements for Them
+Typical civil grades include Jet A and Jet A-1, controlled by international specifications. Key requirements include freezing point, flash behavior, thermal stability, contamination limits, and additive compatibility. Fuel quality management directly affects reliability of pumps, metering, and combustion.
+
+45. Oil Systems of Gas Turbine Engines
+Gas turbine lubrication systems are typically dry-sump, with external tank, pressure feed, scavenge return, filtration, and cooling. They support bearings and gears while controlling oil temperature and cleanliness. Venting/deaeration is required because returned oil contains entrained air.
+
+46. Purpose of the Oil System in Gas Turbine Engines
+The oil system provides lubrication, cooling, sealing support, and contaminant transport for engine rotating assemblies. It maintains required flow and pressure to each bearing compartment under all operating conditions. Without stable lubrication, bearing distress and rapid failure risk increase.
+
+47. Principle of Operation of the Oil System
+Oil from the tank is pressurized, filtered, and delivered to bearings/gears. After passing through compartments, scavenge pumps return oil-air mixture for separation, cooling, and recirculation. Relief and regulating valves maintain pressure limits and protect system components.
+
+48. Oil System Units
+Main units include oil tank, pressure and scavenge pumps, filters, relief/regulating valves, coolers/heat exchangers, breather/deaerator, and chip detectors. Sensors provide oil pressure, temperature, and quantity data. Together they maintain lubrication quality and detect early faults.
+
+49. Monitoring the Operation of the Oil System Using FADEC
+FADEC and associated monitoring systems process oil pressure/temperature/quantity signals for indication, warnings, and protection logic. Data are also used for maintenance diagnostics and trend analysis. This improves fault detection speed and reduces risk of secondary engine damage.
+
+50. Fuel Systems of Gas Turbine Engines
+Fuel systems provide clean, pressurized, metered fuel to combustor nozzles across start, acceleration, cruise, and transient phases. Typical architecture includes low-pressure supply, high-pressure pumping, metering, shutoff, and distribution manifolds. Control precision is essential for thrust response and temperature limits.
+
+51. Purpose and Composition of the Fuel System
+The fuel system ensures correct fuel flow, pressure, and scheduling for all engine operating conditions. Core elements are pumps, filters, control/metering units, shutoff and bypass valves, manifolds, and nozzles. Design also addresses contamination control and hot/cold fuel effects.
+
+52. Main Characteristics of the Fuel System
+Key characteristics are metering accuracy, transient response, reliability, cavitation resistance, and fail-safe behavior. System performance must remain stable over altitude, temperature, and maneuver variations. Good fuel-system control supports both efficiency and turbine-temperature protection.
+
+53. Electronic Engine Control Systems
+Modern engines use EEC/FADEC to command fuel flow and variable geometry from sensor inputs and control laws. Electronic control improves repeatability, protection, and fault handling compared with purely hydromechanical systems. It also enables built-in test and maintenance support.
+
+54. Maintaining the Temperature of the Fuel System
+Fuel temperature is managed through heat exchange and routing strategies, often including fuel-oil heat exchangers. Proper control prevents low-temperature waxing/icing effects and excessive high-temperature degradation. Stable fuel temperature supports pump performance and metering consistency.
+
+55. Fuel System Components
+Typical components are LP/HP pumps, filters, HMU/FCU metering sections, shutoff valves, pressure-control elements, manifolds, and nozzles. Drain and recirculation features may be included for safe operation and thermal management. Sensor feedback closes the control loop with FADEC/EEC.
+
+56. Air Systems of Gas Turbine Engines
+Engine air systems distribute compressor bleed for internal cooling, sealing, anti-ice, and external pneumatic services. Because bleed is parasitic, it must be managed carefully to limit performance penalties. Air-system design is closely linked to engine durability and operability.
+
+57. Purpose and Functions of the Air System
+Functions include turbine and hot-section cooling, compartment sealing, active clearance control, and anti-ice supply. Additional uses may include aircraft ECS/start services depending on installation. Correct bleed scheduling balances component protection against thrust loss.
+
+58. Operation of the Air System
+Bleed is tapped at selected compressor stages and routed through valves, ducts, and regulators to different users. Control logic adjusts source and flow with power setting and flight condition. Sensors monitor pressures and temperatures to maintain safe operating margins.
+
+59. Anti-Icing System
+Engine anti-ice typically routes hot bleed air to intake lip and related zones to prevent accretion. It is used according to icing conditions and operational procedures. Effective anti-ice preserves inlet flow quality and protects rotating components from ice shed/ingestion.
+
+60. Active Clearance Control System
+Active clearance control adjusts turbine case thermal state so blade-tip clearance stays near optimum. Too large a gap reduces efficiency; too small increases rub risk. Controlled cooling/heating air enables better fuel burn and maintains safe mechanical margins.
+
+61. External Heating Systems of Gas Turbine Engines
+In cold-weather operation, external preheating support can reduce cold-start stress on lubrication and accessory systems. Ground heating practices are applied per maintenance/operational procedures. The aim is improved start quality and reduced wear during low-temperature operation.
+
+62. Air System Units
+Units include bleed ports, control and shutoff valves, pressure regulators, precoolers/heat exchangers, manifolds, check valves, and sensing elements. Internal passages feed cooling and sealing circuits. System health depends on valve actuation accuracy and leak control.
+
+63. Fuel Start-Up and Ignition Systems of Gas Turbine Engines
+Starting requires coordinated cranking, fuel scheduling, and spark ignition. The control system sequences these functions to achieve light-off and acceleration to self-sustaining speed. Reliable start logic prevents hot starts, hung starts, and wet starts.
+
+64. Start-Up Systems
+Starters may be electric or air-turbine types, selected by engine/aircraft design. Their role is to rotate compressor/turbine assemblies until sufficient airflow and speed exist for stable combustion. Starter cutout occurs when engine speed is self-sustaining.
+
+65. Ignition System of Gas Turbine Engines
+Ignition systems include exciter units and igniter plugs that deliver high-energy sparks for start and relight. Some operations use continuous or auto-relight logic under adverse weather/turbulence. Proper handling and maintenance are safety-critical due to high-voltage energy.
+
+66. Engine Indication and Control System
+Engine indication systems provide pilots and maintenance with key performance and condition data such as EGT/ITT, RPM, pressure ratio, oil, and fuel parameters. Control functions are integrated with FADEC/EEC for command, protection, and diagnostics. Clear indication supports safe decision-making in abnormal events.
+
+67. Purpose, Functions, and Composition of Power Plant Control Instruments
+These instruments measure and display thrust-related and condition-related parameters. Typical architecture includes sensors/transmitters, data processing units, cockpit displays, and warning logic. Their purpose is to keep operation within limits while enabling early fault recognition.
+
+68. Types of Pressure Sensors and Their Purpose
+Engine systems use different pressure-sensing technologies, including strain-based and displacement-conversion transmitter arrangements depending on parameter and legacy/modern design. They support EPR-type thrust indication, oil-pressure monitoring, and fuel-system control. Accuracy and stability are essential for both control and maintenance interpretation.
+
+69. Principles of Operation of Temperature Measuring Instruments
+Temperature is measured by devices such as thermocouples and resistive sensors depending on location and range. High-temperature gas-path sensing (EGT/ITT) is central to limit protection and trend monitoring. Oil/fuel temperature sensing supports lubrication and fuel-system health.
+
+70. Vibration Level Control and Measurement
+Vibration monitoring uses dedicated sensors to track amplitude and, where needed, phase for balancing and fault diagnosis. Elevated vibration may indicate imbalance, bearing deterioration, or blade damage. Continuous monitoring improves dispatch safety and maintenance planning.
+
+71. Fuel Measuring Systems
+Fuel measurement includes instantaneous flow, cumulative used fuel, and often temperature/pressure compensation. Data feed cockpit indication and flight management calculations. Accurate measurement supports range prediction, engine management, and abnormal condition response.
+
+72. Torque Measurement on the Propeller Shaft
+On turboprop/turboshaft applications, torque indicates delivered shaft power and is a primary operating limit. Measurement can be derived by pressure-based systems or electrical sensing approaches depending on design. Reliable torque indication protects gearbox/propeller systems from overload.
+
+73. Thrust Augmentation Systems of Gas Turbine Engines
+Power augmentation provides temporary thrust increase for specific phases such as takeoff or high-demand mission segments. In module context, principal methods are afterburning and water/water-methanol injection. Benefits come with fuel, thermal, and complexity penalties.
+
+74. Engine Boosting by Fuel Combustion in the Turbine Space
+Afterburning injects fuel downstream of turbine stages and burns it in the exhaust duct, increasing jet temperature and velocity. This can produce large short-term thrust gains but with very high fuel consumption. Variable-area nozzle control is typically required to maintain safe pressure relationships.
+
+75. Thrust Augmentation by Liquid Injection
+Water or water-methanol injection increases effective mass flow and thermal margin, allowing temporary power/thrust increase in hot/high conditions. It is historically important and still relevant conceptually, though less common on modern civil engines. System operation must be carefully controlled due to added complexity and maintenance burden.

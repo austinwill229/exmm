@@ -67,6 +67,27 @@ h1 {
   color: #dce8ff;
 }
 
+.quick-links {
+  margin: 0.85rem 0 0;
+}
+
+.topic-link {
+  display: inline-block;
+  padding: 0.48rem 0.84rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  color: #eef6ff;
+  text-decoration: none;
+  font-weight: 600;
+  background: rgba(7, 34, 39, 0.26);
+  transition: transform 0.14s ease, background 0.14s ease;
+}
+
+.topic-link:hover {
+  transform: translateY(-1px);
+  background: rgba(7, 34, 39, 0.42);
+}
+
 .card {
   background: var(--card);
   border: 1px solid rgba(255, 255, 255, 0.65);
