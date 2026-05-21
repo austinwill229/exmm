@@ -171,6 +171,47 @@ button.ghost {
   padding: 1rem;
 }
 
+.study-card {
+  padding: 1.2rem;
+}
+
+.study-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 0.9rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.study-topic {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(46, 196, 182, 0.12);
+  color: #0d5e57;
+  font-weight: 700;
+}
+
+.study-question {
+  margin: 0 0 0.9rem;
+  font-family: "Fraunces", serif;
+  font-size: clamp(1.25rem, 2.2vw, 1.7rem);
+  line-height: 1.25;
+}
+
+.study-answer {
+  margin: 0;
+  color: var(--ink);
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.study-answer strong {
+  color: #0d5e57;
+}
+
 .question-list {
   margin: 0;
   padding-left: 1.2rem;

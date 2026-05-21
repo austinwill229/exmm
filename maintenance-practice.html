@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maintenance Practice Answers</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="background-glow"></div>
+  <main class="app-shell">
+    <header class="hero">
+      <p class="eyebrow">Study Deck</p>
+      <h1>Maintenance Practice Answers</h1>
+      <p class="subtitle">Full written answers only. Each slide shows one exam question with a complete study answer.</p>
+      <p class="quick-links">
+        <a class="topic-link" href="index.html">Back to Main Quiz</a>
+        <a class="topic-link" href="gas-turbine.html">Gas Turbine Quiz</a>
+        <a class="topic-link" href="digital-technology.html">Digital Technology Quiz</a>
+      </p>
+    </header>
+
+    <section class="controls card" aria-label="Study deck controls">
+      <div class="control-group">
+        <label for="slideSelect">Slide</label>
+        <select id="slideSelect"></select>
+      </div>
+      <div class="control-group">
+        <span class="metric-label">Position</span>
+        <strong id="slideProgress">1 / 30</strong>
+      </div>
+      <div class="control-group">
+        <span class="metric-label">Mode</span>
+        <strong>Full Answers</strong>
+      </div>
+      <div class="actions">
+        <button id="prevBtn" type="button">Previous Slide</button>
+        <button id="nextBtn" type="button" class="primary">Next Slide</button>
+      </div>
+    </section>
+
+    <section class="card study-card">
+      <div class="study-meta">
+        <span id="slideTopic" class="study-topic"></span>
+        <span id="slideNumber"></span>
+      </div>
+      <h2 id="questionText" class="study-question"></h2>
+      <p id="answerText" class="study-answer"></p>
+    </section>
+  </main>
+
+  <script src="maintenance-practice.js"></script>
+</body>
+</html>
